@@ -1,2 +1,3 @@
 Providing the user services
 new service added
+New service deleted
